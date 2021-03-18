@@ -1,7 +1,7 @@
 ### ☺️
 
 ## 포트폴리오
-https://www.notion.so/Sim-Da-song-d8342af2576e481689480c220197966f
+https://sim.dasong.dev
 <!--
 **SimDaSong/SimDaSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
