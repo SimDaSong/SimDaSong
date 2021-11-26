@@ -1,18 +1,14 @@
-### ☺️
+<div align=center>
+  
+  ### 안녕하세요. NodeJS 백엔드 개발자 심다송입니다.
+  
+  **포트폴리오** 👉🏻 https://sim.dasong.dev 👈🏻
 
-## 포트폴리오
-https://sim.dasong.dev
-<!--
-**SimDaSong/SimDaSong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimDaSong&count_private=true&show_icons=true)](https://github.com/SimDaSong)
 
-Here are some ideas to get you started:
+  [![Github Badge](http://img.shields.io/badge/-github-black?style=flat&logo=github&link=https://github.com/SimDaSong/)](https://github.com/SimDaSong/)
+  [![Velog Badge](http://img.shields.io/badge/-velog-rgb(18%2C%20184%2C%20134)?style=flat&link=https://velog.io/@software/)](https://velog.io/@software/)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://fb.com/100008001034636)](https://fb.com/100008001034636)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:song98987@korea.ac.kr)](mailto:song98987@korea.ac.kr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
